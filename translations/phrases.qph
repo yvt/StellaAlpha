@@ -1,0 +1,111 @@
+<!DOCTYPE QPH>
+<QPH language="ja_JP">
+<phrase>
+    <source>tweet</source>
+    <target>ツイート</target>
+</phrase>
+<phrase>
+    <source>retweet</source>
+    <target>リツイート</target>
+</phrase>
+<phrase>
+    <source>access</source>
+    <target>アクセスする</target>
+    <definition>動詞;</definition>
+</phrase>
+<phrase>
+    <source>access</source>
+    <target>アクセス</target>
+    <definition>名詞; プラットフォームの特定の領域へ入る権限・特権。</definition>
+</phrase>
+<phrase>
+    <source>account</source>
+    <target>アカウント</target>
+    <definition>名詞; ユーザーの固有情報・プロフィールを格納するエンティティ。</definition>
+</phrase>
+<phrase>
+    <source>activate</source>
+    <target>有効にする</target>
+    <definition>動詞; 何かを動作するようにする。反対語: deactivate</definition>
+</phrase>
+<phrase>
+    <source>activity</source>
+    <target>アクティビティ</target>
+    <definition>名詞: &quot;つながり&quot;画面にあるタブの一つ</definition>
+</phrase>
+<phrase>
+    <source>advertiser</source>
+    <target>広告主</target>
+    <definition>名詞; Twitterの広告商品を利用する人・企業</definition>
+</phrase>
+<phrase>
+    <source>algorithm</source>
+    <target>アルゴリズム</target>
+    <definition>名詞: 計算の手続き</definition>
+</phrase>
+<phrase>
+    <source>app</source>
+    <target>アプリ</target>
+    <definition>名詞: アプリケーションの略</definition>
+</phrase>
+<phrase>
+    <source>application</source>
+    <target>アプリケーション</target>
+    <definition>名詞: Twitterのデータにアクセスできる第三者の製品</definition>
+</phrase>
+<phrase>
+    <source>attach</source>
+    <target>添付する</target>
+    <definition>動詞; フォームやメールに関連する書類を追加する</definition>
+</phrase>
+<phrase>
+    <source>avatar</source>
+    <target>プロフィール画像</target>
+    <definition>名詞; プロフィールに設定できる、アカウントに関連付けられた画像</definition>
+</phrase>
+<phrase>
+    <source>banner</source>
+    <target>バナー</target>
+    <definition>名詞; Webページの上部にわたって表示される画像</definition>
+</phrase>
+<phrase>
+    <source>bio</source>
+    <target>自己紹介</target>
+    <definition>名詞; アカウントの説明に使用する160文字以内のテキスト</definition>
+</phrase>
+<phrase>
+    <source>block</source>
+    <target>ブロックする</target>
+    <definition>動詞; </definition>
+</phrase>
+<phrase>
+    <source>blog</source>
+    <target>ブログ</target>
+    <definition>名詞; 個人やグループが意見や情報を記録するウェブサイト</definition>
+</phrase>
+<phrase>
+    <source>browse categories</source>
+    <target>カテゴリー別に見る</target>
+    <definition>成句; 特定のトピックに関連するアカウントを表示する</definition>
+</phrase>
+<phrase>
+    <source>bug</source>
+    <target>不具合</target>
+    <definition>名詞; 動作や機能に生じるエラー</definition>
+</phrase>
+<phrase>
+    <source>business</source>
+    <target>ビジネス</target>
+    <definition>名詞: Twitterを使用している企業</definition>
+</phrase>
+<phrase>
+    <source>Business Center</source>
+    <target>ビジネスセンター</target>
+    <definition>名詞成句;</definition>
+</phrase>
+<phrase>
+    <source>button</source>
+    <target>ボタン</target>
+    <definition>名詞; 他のウェブサイトからTwitterにリンクするのに使用する</definition>
+</phrase>
+</QPH>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/stella/translations">
+        <file>stella_ja.qm</file>
+        <file>stella_en.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/stella">
+        <file>res/Sans11.ufbmp</file>
+        <file>res/Sans11.ufindex</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+on mac,
+
+cd Stella-build-desktop-Qt_4_8_0_Debug
+ln -s /Library/Frameworks/QtCore.framework/Headers QtCore
+/usr/local/i386-mingw32-4.3.0/bin/i386-mingw32-g++ -c qrc_stellasans11.cpp -o /tmp/qrc_stellasans11.o -I. -D__LITTLE_ENDIAN__
